@@ -264,9 +264,14 @@ const disciplines = [
 ];
 
 const clientLogos = [
-  { name: "UNIQUIP", image: "/clients/uniquip.svg" },
-  { name: "HEXOS", image: "/clients/hexos.svg" },
-  { name: "MARIMAS", image: "/clients/marimas.svg" },
+  { name: "UNIQUIP", image: "/clients/logo-uniquip.png" },
+  { name: "HEXOS", image: "/clients/logo-hexos.jpg" },
+  { name: "INTERBAT", image: "/clients/logo-interbat.jpeg" },
+  { name: "KEMENPERIN", image: "/clients/logo-kemenperin.svg" },
+  { name: "MONASH UNIVERSITY", image: "/clients/logo-monash-univ.png" },
+  { name: "HOME CREDIT", image: "/clients/logo-home-credit.png" },
+  { name: "DKI JAKARTA", image: "/clients/jakarta.png" },
+
 ];
 
 export default function Home() {
