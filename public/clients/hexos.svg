@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" role="img" aria-labelledby="title">
+  <title id="title">HEXOS</title>
+  <rect width="260" height="80" rx="12" fill="#f8f7f2"/>
+  <path d="M29 23h9v12h13V23h9v34h-9V44H38v13h-9z" fill="#143826"/>
+  <text x="73" y="51" fill="#143826" font-family="Arial Black, Arial, sans-serif" font-size="31" font-weight="900" letter-spacing="1">HEXOS</text>
+  <path d="M116 24l9 16-9 16h10l9-16-9-16z" fill="#85d51f" opacity=".9"/>
+</svg>
